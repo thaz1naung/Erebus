@@ -1,0 +1,27 @@
+MAX_GAME_DURATION: 8:00
+ROBOT_0_SCORE: 0
+
+ROBOT_0: NO_TEAM_NAME
+00:20 Lack of Progress (via robot) -5
+00:40 Lack of Progress (via robot) -5
+01:00 Lack of Progress (via robot) -5
+01:20 Lack of Progress (via robot) -5
+01:40 Lack of Progress (via robot) -5
+02:00 Lack of Progress (via robot) -5
+02:20 Lack of Progress (via robot) -5
+02:41 Lack of Progress (via robot) -5
+03:01 Lack of Progress (via robot) -5
+03:21 Lack of Progress (via robot) -5
+03:41 Lack of Progress (via robot) -5
+04:01 Lack of Progress (via robot) -5
+04:21 Lack of Progress (via robot) -5
+04:42 Lack of Progress (via robot) -5
+05:02 Lack of Progress (via robot) -5
+05:22 Lack of Progress (via robot) -5
+05:42 Lack of Progress (via robot) -5
+06:02 Lack of Progress (via robot) -5
+06:22 Lack of Progress (via robot) -5
+06:42 Lack of Progress (via robot) -5
+07:03 Lack of Progress (via robot) -5
+07:23 Lack of Progress (via robot) -5
+07:43 Lack of Progress (via robot) -5

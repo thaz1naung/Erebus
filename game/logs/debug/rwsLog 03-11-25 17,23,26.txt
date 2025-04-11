@@ -1,0 +1,110 @@
+config	0,0,0,0,0,0,
+startup	
+version	24.1.0
+version	24.1.0
+unloaded1	
+remoteDisabled	
+currentWorld	world1
+update	0,0,480,0
+rw_reload	[]
+config	0,0,0,0,0,0,
+remoteDisable	[]
+remoteDisabled	
+getWorlds	[]
+worlds	room4_small.wbt,world2.wbt,world1.wbt,room4.wbt,NewPassages.wbt
+remoteDisable	[]
+remoteDisabled	
+getWorlds	[]
+worlds	room4_small.wbt,world2.wbt,world1.wbt,room4.wbt,NewPassages.wbt
+remoteDisable	[]
+remoteDisabled	
+remoteDisable	[]
+remoteDisabled	
+loadControllerPressed	['0']
+loadControllerPressed,	0
+run	[]
+runPressed	
+robotInSimulation0	
+update	0,0,480,1
+update	0,1,480,1
+update	0,1,480,2
+update	0,2,480,2
+update	0,2,480,3
+update	0,3,480,3
+update	0,3,480,4
+update	0,4,480,4
+update	0,4,480,5
+update	0,5,480,5
+update	0,5,480,6
+update	0,6,480,6
+update	0,6,480,7
+historyUpdate	00:06,Entered swamp
+update	0,7,480,7
+update	0,8,480,7
+update	0,9,480,7
+update	0,10,480,7
+update	0,10,480,8
+update	0,11,480,8
+historyUpdate	00:11,Exited swamp,
+update	0,12,480,8
+update	0,12,480,9
+update	0,13,480,9
+update	0,13,480,10
+update	0,14,480,10
+update	0,14,480,11
+update	0,15,480,11
+update	0,15,480,12
+update	0,16,480,12
+update	0,16,480,13
+update	0,17,480,13
+update	0,17,480,14
+update	0,18,480,14
+update	0,18,480,15
+update	0,19,480,15
+update	0,19,480,16
+update	0,20,480,16
+update	0,20,480,17
+update	0,21,480,17
+update	0,21,480,18
+update	0,22,480,18
+update	0,22,480,19
+update	0,23,480,19
+update	0,23,480,20
+update	0,24,480,20
+update	0,24,480,21
+update	0,25,480,22
+update	0,25,480,23
+update	0,26,480,23
+update	0,26,480,24
+update	0,27,480,24
+update	0,27,480,25
+update	0,28,480,25
+update	0,28,480,26
+update	0,29,480,26
+update	0,29,480,27
+update	0,30,480,27
+update	0,30,480,28
+update	0,31,480,28
+update	0,31,480,29
+update	0,32,480,29
+update	0,32,480,30
+update	0,33,480,30
+update	0,33,480,31
+update	0,34,480,31
+update	0,34,480,32
+update	0,35,480,32
+update	0,35,480,33
+update	0,36,480,33
+update	0,36,480,34
+update	0,37,480,34
+update	0,37,480,35
+update	0,38,480,35
+update	0,38,480,36
+update	0,39,480,36
+update	0,39,480,37
+update	0,40,480,37
+pause	[]
+pausedPressed	
+reset	[]
+robotNotInSimulation0	
+historyUpdate	00:40,Successful Exit

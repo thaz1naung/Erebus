@@ -1,0 +1,30 @@
+config	0,0,0,0,0,0,
+startup	
+version	24.1.0
+version	24.1.0
+unloaded1	
+remoteDisabled	
+currentWorld	world1
+update	0,0,480,0
+rw_reload	[]
+config	0,0,0,0,0,0,
+remoteDisable	[]
+remoteDisabled	
+getWorlds	[]
+worlds	room4_small.wbt,world2.wbt,world1.wbt,room4.wbt,NewPassages.wbt
+remoteDisable	[]
+remoteDisabled	
+getWorlds	[]
+worlds	room4_small.wbt,world2.wbt,world1.wbt,room4.wbt,NewPassages.wbt
+remoteDisable	[]
+remoteDisabled	
+remoteDisable	[]
+remoteDisabled	
+loadControllerPressed	['0']
+loadControllerPressed,	0
+run	[]
+runPressed	
+robotInSimulation0	
+historyUpdate	00:00,No Exit Bonus
+robotNotInSimulation0	
+historyUpdate	00:00,Successful Exit
